@@ -27,11 +27,11 @@ online-menu/
 │   ├── styles.css       # Custom styling
 │   └── menu.json        # JSON "database"
 ├── index.js             # Express server
+├── index.test.js        # Basic API test
 ├── Dockerfile           # Docker image definition
 ├── docker-compose.yml   # Docker Compose config
 ├── package.json
-├── README.md
-└── __tests__/menu.test.js # Basic API test
+└── README.md
 ```
 
 ---
